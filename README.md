@@ -1,6 +1,6 @@
 # ``Big Data`` - Prosit 3
 
-This is the repository for the Prosit X of the ``Big Data`` course.
+This is the repository for the Prosit 3 of the ``Big Data`` course.
 
 ## Repository structure
 
