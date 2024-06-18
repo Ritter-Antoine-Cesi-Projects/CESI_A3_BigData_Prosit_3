@@ -89,3 +89,22 @@ Suite à une réunion avec les utilisateurs finaux, des contraintes ont été va
 # Solutions
 
 # Ressources
+
+- [Building a Data Warehouse with Hive at Helpshift](https://medium.com/helpshift-engineering/building-a-data-warehouse-with-hive-at-helpshift-part-1-443046df6484)
+- [Apache Hive Cookbook, Hanish Bansal, Shrey Mehrotra et Saurabh Chauhan, éditions Packt Publishing](https://univ.scholarvox.com/reader/docid/88843191/page/1)
+- [HIVE- A data warehouse in HADOOP](https://www.analyticsvidhya.com/blog/2021/05/hive-a-data-warehouse-in-hadoop-framework/)
+- [Apache Hive - site officiel](https://hive.apache.org/)
+- [Apache Hive - définition](https://www.lebigdata.fr/apache-hive-definition)
+- [Apache Hive Architecture](https://data-flair.training/blogs/apache-hive-architecture/)
+- [Hive et Big data](https://meritis.fr/hive-et-big-data-exploration-des-concepts/)
+- [Partitionnement](https://zephyrnet.com/fr/beginners-guide-for-data-partitioning-in-hiveql/)
+- [Types de données dans Hive](https://cwiki.apache.org/confluence/display/hive/languagemanual+types)
+- [NOSQL - généralités](https://www.ionos.fr/digitalguide/hebergement/aspects-techniques/nosql/)
+- [Maitrisez les bases de données NOSQL](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql)
+- [Maitrisez les bases de données NOSQL - Le théorème de CAP](https://openclassrooms.com/fr/courses/4462426-maitrisez-les-bases-de-donnees-nosql/4462471-maitrisez-le-theoreme-de-cap)
+- [ACID versus BASE](https://infodecisionnel.com/data-management/big-data/acid-versus-base/)
+- [Blog TIME4BIGDATA](https://time4bigdata.wordpress.com/2015/03/23/hadoop-augmente-la-chaine-decisionnelle/)
+- [Accélérer vos requêtes dans Apache Hive](https://www.adaltas.com/fr/2018/05/31/accelerating-query-processing-with-materialized-views-in-apache-hive-2/)
+- [Using Apache Hive - Using materialized views](https://docs.cloudera.com/HDPDocuments/HDP3/HDP-3.1.0/using-hiveql/content/hive_using_materialized_views.html)
+- [Hive Language Manual - Joins](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Joins)
+- [Vue Apache Ambari Hive](https://docs.microsoft.com/fr-fr/azure/hdinsight/hadoop/apache-hadoop-use-hive-ambari-view)
